@@ -1,0 +1,81 @@
+.html {
+    background-color: red;
+}
+
+
+.main {
+    height: 30rem;
+    padding-top: 1rem;
+    background-image: url(https://media.istockphoto.com/photos/bay-bridge-and-san-francisco-skyline-at-sunset-picture-id476881195?k=20&m=476881195&s=612x612&w=0&h=jo3wm2HlQ9ucKVLxZkAs59GA1PnmfzS6GJEAV2A5M4A=);
+    background-position: center;
+    background-size: cover;
+    background-repeat: no-repeat;
+    opacity: 0.95;
+  
+}
+
+.information {
+    display: flex;
+    justify-content: flex-end;
+  }
+
+  h1 {
+    text-align: center;
+    display: block;
+    font-size: 40px;
+    color: dodgerblue;
+    
+  }
+
+nav {
+    background-color: rgb(221, 80, 24);
+    color: White;
+    padding-top: 0.75rem;
+    padding-bottom: 0.75rem;
+    padding-left: 1.25rem;
+    padding-right: 1.25rem;
+
+}
+
+row {
+    justify-content: space-around;
+  
+  }
+
+.contact {
+      text-align: center;
+      color: dodgerblue
+  }
+
+.container {
+    height: 300px;
+  width: 600px;
+  background-color: whitesmoke;
+ display: flex-center;
+  align-items:baseline;
+  margin: auto;
+
+}  
+
+h3 {
+    text-align: center;
+    text-decoration-color: blue;
+}
+
+.header {
+    font:OrangeRed;
+    text-align: center;
+    padding: 5px;
+    
+}
+
+
+
+
+
+
+    
+
+    
+
+    
